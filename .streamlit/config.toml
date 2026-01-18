@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#000000"          # black accents / button text
+backgroundColor = "#FFFFFF"       # white main background
+secondaryBackgroundColor = "#87CEEB"  # sky-blue sidebar
+textColor = "#000000"             # black text
+font = "sans serif"
+
+[server]
+port = 8501
+maxUploadSize = 200

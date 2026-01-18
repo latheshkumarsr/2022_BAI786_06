@@ -1,0 +1,16 @@
+               precision    recall  f1-score   support
+
+      Assault       0.09      0.09      0.09      1001
+     Burglary       0.10      0.10      0.10       984
+   Cybercrime       0.10      0.11      0.10       985
+ Drug Offense       0.10      0.10      0.10      1010
+        Fraud       0.10      0.11      0.10       990
+       Murder       0.10      0.10      0.10      1013
+      Robbery       0.11      0.11      0.11      1007
+        Theft       0.10      0.09      0.10       998
+    Vandalism       0.10      0.09      0.10      1007
+Vehicle Theft       0.09      0.09      0.09      1005
+
+     accuracy                           0.10     10000
+    macro avg       0.10      0.10      0.10     10000
+ weighted avg       0.10      0.10      0.10     10000

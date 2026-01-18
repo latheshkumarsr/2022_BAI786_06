@@ -1,0 +1,3 @@
+
+PROJECT_ROOT = '..'
+GRID_SIZE_DEFAULT = 0.5
